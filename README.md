@@ -341,7 +341,7 @@ Confirms the updated disk space usage after resizing.
 
 
 
-# ------------------ Implementation Screenshots ----------------
+# -------------- Implementation Screenshots --------------
 
 
 
