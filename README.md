@@ -2,14 +2,6 @@
 
 
 
-<br>
-
-
-
-
-
-
-
 ### Introduction to LVM  
 
 **Logical Volume Manager (LVM)** is a powerful storage management tool used in Linux. It provides flexibility and scalability in managing disk storage, allowing you to dynamically resize or extend storage without disrupting the system.  
